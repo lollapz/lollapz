@@ -83,16 +83,21 @@
 
 ## 🎯 Learning Roadmap
 
-```mermaid
-graph LR
-    A["🔍<br/>RAG Systems<br/><br/>✅ Current"] -->|"Building"| B["🤖<br/>Agent Workflow<br/>Tool Calling<br/><br/>🔄 Next"]
-    B -->|"Orchestrating"| C["🧩<br/>Multi-Agent<br/>Systems<br/><br/>📋 Planned"]
-    C -->|"Optimizing"| D["🧪<br/>Fine-Tuning<br/>Domain Models<br/><br/>📅 Future"]
-
-    style A fill:#667eea,stroke:#5a67d8,color:#fff
-    style B fill:#764ba2,stroke:#6b3fa0,color:#fff
-    style C fill:#f093fb,stroke:#d676ea,color:#333
-    style D fill:#c3cfe2,stroke:#a8b5d4,color:#333
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   🔍 RAG Systems           ✅ Current                                   │
+│       │                                                                 │
+│       ▼                                                                 │
+│   🤖 Agent Workflow        🔄 Next                                      │
+│       │                                                                 │
+│       ▼                                                                 │
+│   🧩 Multi-Agent Systems   📋 Planned                                   │
+│       │                                                                 │
+│       ▼                                                                 │
+│   🧪 Fine-Tuning           📅 Future                                    │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
