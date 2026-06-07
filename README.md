@@ -111,16 +111,5 @@
 
 ## 📫 Contact
 
-<p align="center">
-  <a href="https://github.com/lollapz">
-    <img src="https://img.shields.io/badge/GitHub-lollapz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  &nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-coming_soon-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-<p align="center">
-  <sub>Let's build something that works.</sub>
-</p>
+- **GitHub**: [github.com/lollapz](https://github.com/lollapz)
+- **Email**: 1535142358@qq.com
