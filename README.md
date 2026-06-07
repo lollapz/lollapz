@@ -84,20 +84,16 @@
 ## 🎯 Learning Roadmap
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   🔍 RAG Systems           ✅ Current                                   │
-│       │                                                                 │
-│       ▼                                                                 │
-│   🤖 Agent Workflow        🔄 Next                                      │
-│       │                                                                 │
-│       ▼                                                                 │
-│   🧩 Multi-Agent Systems   📋 Planned                                   │
-│       │                                                                 │
-│       ▼                                                                 │
-│   🧪 Fine-Tuning           📅 Future                                    │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+🔍 RAG Systems
+     │
+     ▼
+🤖 Agent Workflow
+     │
+     ▼
+🧩 Multi-Agent Systems
+     │
+     ▼
+🧪 Fine-Tuning
 ```
 
 ---
