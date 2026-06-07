@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Shouming</h1>
+<h1 align="center">Hey there 👋 I'm Xiuming</h1>
 
 <p align="center">
   <b>AI Application Engineer</b>
